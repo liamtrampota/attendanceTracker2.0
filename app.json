@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "Attendance Tracker",
+    "name": "Attendance Tracker Beta",
     "slug": "attendanceTracker2.0",
     "privacy": "public",
     "sdkVersion": "32.0.0",
@@ -24,6 +24,7 @@
     ],
     "ios": {
       "supportsTablet": true
-    }
+    },
+    "description": ""
   }
 }
